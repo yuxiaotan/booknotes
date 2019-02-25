@@ -16,4 +16,10 @@
 	5. Insurance companies of BKA
 		- Float generating companies
 
-- B. and C. hopes for a "elephant sized acquisiton" in 2019
+- B. and C. hopes for a "elephant sized acquisition" in 2019
+
+- BKA has insurnace float of 122B. B. claims that they will never lose more than 3% per year in float size. I question this claim.
+
+- BKA bought 50% of GEICO for 47M in the 1970s, then bought out the rest for 2.3B later in 1995.
+
+- Buffett closes the letter reassuring everyone that his belief that american posperity will continue.
