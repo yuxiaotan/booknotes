@@ -3,7 +3,7 @@
 - A new GAAP rule forces BKA to report unrealized capital gains and losses. Buffett is asking investors to pay attention ot **operating earnings** and not unrealized gains/losses.  
 "Over time, [we] expect [our portfolio] to deliver substantial gains, but with irregular timing." - Buffett
 
-- B, is happy that Ajit Jain (insurance) and Greg Abel (all other operaitons) has taken over.
+- Buffett, is happy that Ajit Jain (insurance) and Greg Abel (all other operaitons) has taken over.
 
 - BKA views the *retained earnings* of its portfolio companies as a **signal** for eventually delivering capital gains.
 
@@ -16,9 +16,9 @@
 	5. Insurance companies of BKA
 		- Float generating companies
 
-- B. and C. hopes for a "elephant sized acquisition" in 2019
+- Buffet and Charlie hopes for a "elephant sized acquisition" in 2019
 
-- BKA has insurnace float of 122B. B. claims that they will never lose more than 3% per year in float size. I question this claim.
+- BKA has insurnace float of 122Buffet Buffet claims that they will never lose more than 3% per year in float size. I question this claim.
 
 - BKA bought 50% of GEICO for 47M in the 1970s, then bought out the rest for 2.3B later in 1995.
 
