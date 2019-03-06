@@ -1,4 +1,6 @@
+---
 # The Mythical Man Month
+---
 
 ## Chapter 1
 Chapter Quote - *A ship on the beach is a lighthouse to the sea*
